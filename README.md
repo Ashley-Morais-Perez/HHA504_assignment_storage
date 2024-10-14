@@ -24,13 +24,20 @@
 - Files in the storage container were lister (one txt file and two png)
 - <img width="293" alt="image" src="https://github.com/user-attachments/assets/2ec1ebca-4c1a-4248-b595-a4408949f595">
 - <img width="251" alt="image" src="https://github.com/user-attachments/assets/28f4ca11-7896-441a-add6-22fbe61713dd">
+- Link to Google Colab since it was giving me an error message on saving a copy on Github: https://colab.research.google.com/drive/16YeML1zX7_bfyk8SdBgv8Hx-mI1SH9Op#scrollTo=kkmI0R68nJ4J
 
 
      
 
 ### GCP ###
 
+- Bucket was created
+- <img width="734" alt="image" src="https://github.com/user-attachments/assets/2a78a9a3-605c-4c34-beef-26e98e4cf645">
+- A png file was uploaded
+- <img width="413" alt="image" src="https://github.com/user-attachments/assets/f4515b84-cde7-46c9-9581-885f00cde63c">
 - 
+
+
 
 
 
